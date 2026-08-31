@@ -1,4 +1,4 @@
-### ✨ Si unus aliquid componit, alius semper discerpere potest! ✨
+### ✨ CARRY MEANING, NOT JUST DATA ✨
 ---
 
 ### For contact me

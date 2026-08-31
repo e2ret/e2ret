@@ -1,4 +1,4 @@
-### ✨ CARRY MEANING, NOT JUST DATA ✨
+CARRY MEANING, NOT JUST DATA
 ---
 
 ### For contact me

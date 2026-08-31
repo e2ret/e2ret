@@ -9,7 +9,7 @@
 
 ### You can thank me in YOOmoney or Boosty
 [![YooMoney](https://img.shields.io/badge/YooMoney-8B3EFA?style=for-the-badge)](https://yoomoney.ru/to/YOUR_WALLET) 
-[![Boosty](https://img.shields.io/badge/Boosty-E55F2A?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/noemarns)
+[![Boosty](https://img.shields.io/badge/Boosty-E55F2A?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/noemarns/donate)
 
 ### Crypto
 ![USDT TRC20](https://img.shields.io/badge/USDT_(TRC20)-26A17B?style=for-the-badge&logo=tether&logoColor=white) `TD89XXL9ehwhp4WysfqHSBGJjxxdoaVsYD`

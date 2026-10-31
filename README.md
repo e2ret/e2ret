@@ -7,8 +7,7 @@ CARRY MEANING, NOT JUST DATA
 
 ![LXMF](https://img.shields.io/badge/LXMF-222222?style=for-the-badge) `3c4d222ee3acca1b386f5c2ad7ff1c6f`
 
-### You can thank me in YOOmoney or Boosty
-[![YooMoney](https://img.shields.io/badge/YooMoney-8B3EFA?style=for-the-badge)](https://yoomoney.ru/to/YOUR_WALLET) 
+### You can thank me in Boosty
 [![Boosty](https://img.shields.io/badge/Boosty-E55F2A?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/noemarns/donate)
 
 ### Crypto
